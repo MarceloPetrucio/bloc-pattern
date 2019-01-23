@@ -109,6 +109,12 @@ floatingActionButton: new FloatingActionButton(
 
 ```
 
+# Bloc Pattern With List
+
+Provider to implement a List Bloc Pattern in your Flutter code
+
+
+
 ## Para mais informações
 
 Acesse o Blog do Flutterando Clicando [aqui](https://flutterando.com.br).
